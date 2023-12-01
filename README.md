@@ -22,12 +22,6 @@ The matlab_script.m file complements the Simulink model by providing additional 
 Test Data
 The test_data/ directory contains sample data that can be used to test and validate the performance of the control system.
 
-Usage
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/your-repository.git
 Open the Simulink model (Simulink_motor_bar_controller.slx) and MATLAB script (matlab_script.m) using MATLAB R2015a.
 
 Configure the system parameters and control settings according to your specific requirements.
