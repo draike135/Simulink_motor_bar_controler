@@ -26,4 +26,5 @@ Open the Simulink model (Simulink_motor_bar_controller.slx) and MATLAB script (m
 
 Configure the system parameters and control settings according to your specific requirements.
 
-Run simulations and analyze the results using the provided test data or collect new data as needed.
+Run simulations and analyze the results using the provided test data or collect new data as needed.<
+Final Grade:17, project Grade:16
